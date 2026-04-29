@@ -9,4 +9,4 @@ when i am not coding or creating payloads you can find me playing the best game 
 code name isaac xv¡. 
 
 
-*"Success is a process, not an event."* 
+*"Aim not for a "close but not cigar" but for a Booyah."* 
