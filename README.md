@@ -1,15 +1,7 @@
 # Rorisang Justice Molapo
 
-<h3 align="center">
-  <a href="https://git.io"><img src="https://demolab.com." alt="Typing SVG" /></a>
-</h3>
-
 <p align="center">
   A software engineering student dedicated to forging my craft with the discipline of a samurai blade and the precision of a desert eagle.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com" alt="Rorisang-Molapo profile views" />
 </p>
 
 ---
