@@ -1,4 +1,4 @@
-# 🥷 Rorisang J Molapo
+# Rorisang Justice Molapo
 
 <h3 align="center">
   <a href="https://git.io"><img src="https://demolab.com." alt="Typing SVG" /></a>
@@ -15,8 +15,7 @@
 ---
 
 ### 👽 Beyond the Code
-When I am not coding or creating payloads, you can find me playing **Free Fire**. 
-Come join my guild, the pride of Lesotho: **Federal 20¤**, or just hit me up.
+just a reqular person who enjoys playing games especially free fire. 
 **Code name:** `isaac xv¡`
 
 > *"Aim not for a 'close but no cigar' but for a Booyah."*
