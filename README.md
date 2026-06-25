@@ -1,7 +1,7 @@
 # Rorisang Justice Molapo
 
 <p align="center">
-  A software engineering student dedicated to forging my craft with the discipline of a samurai blade and the precision of a desert eagle.
+  A software engineering with multi-media student dedicated to forging my craft with the discipline of a samurai blade and the precision of a desert eagle.
 </p>
 
 ---
